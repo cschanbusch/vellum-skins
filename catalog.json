@@ -1,4 +1,85 @@
 {
   "schema": 1,
-  "plugins": []
+  "plugins": [
+    {
+      "id": "calling-card",
+      "type": "skin",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "apiVersion": 1,
+          "url": "https://github.com/cschanbusch/vellum-skins/releases/download/calling-card-v1.0.0/calling-card-1.0.0.zip",
+          "size": 304051,
+          "sha256": "13e4f52abcc4f8c0faa0ef54e42e0f69ffe1e0ec1d5d7221eeb0d76958db31c9",
+          "published": "2026-10-22T19:21:57.152Z"
+        }
+      ],
+      "name": "Calling Card",
+      "description": "Red, black and white menus with ransom-note type, in the style of Persona 5 (fan-made; no original assets)",
+      "author": "Vellum",
+      "license": "PolyForm-Strict-1.0.0",
+      "homepage": "https://github.com/cschanbusch/vellum-skins",
+      "preview": "https://github.com/cschanbusch/vellum-skins/releases/download/calling-card-v1.0.0/calling-card-preview.jpg"
+    },
+    {
+      "id": "ficsit",
+      "type": "skin",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "apiVersion": 1,
+          "url": "https://github.com/cschanbusch/vellum-skins/releases/download/ficsit-v1.0.0/ficsit-1.0.0.zip",
+          "size": 334566,
+          "sha256": "daa44d56c5bceb797b57f59f00bb69748ceaea283582c3cef12fee3d280deb24",
+          "published": "2026-10-22T19:21:49.050Z"
+        }
+      ],
+      "name": "FICSIT Terminal",
+      "description": "An industrial library terminal in the style of Satisfactory's FICSIT Inc. Fan-made; no game assets.",
+      "author": "Vellum",
+      "license": "PolyForm-Strict-1.0.0",
+      "homepage": "https://github.com/cschanbusch/vellum-skins",
+      "preview": "https://github.com/cschanbusch/vellum-skins/releases/download/ficsit-v1.0.0/ficsit-preview.jpg"
+    },
+    {
+      "id": "frontier",
+      "type": "skin",
+      "versions": [
+        {
+          "version": "1.3.0",
+          "apiVersion": 1,
+          "url": "https://github.com/cschanbusch/vellum-skins/releases/download/frontier-v1.3.0/frontier-1.3.0.zip",
+          "size": 629988,
+          "sha256": "5b2fb5bda58e17986a398fe396586e6a4693b8649854a4fd2f1641dcb1740f2e",
+          "published": "2026-10-22T19:21:45.108Z"
+        }
+      ],
+      "name": "Frontier",
+      "description": "Smoke, brush strokes and wood type, in the style of Red Dead Redemption 2's menus. Fan-made; no game assets.",
+      "author": "Vellum",
+      "license": "PolyForm-Strict-1.0.0",
+      "homepage": "https://github.com/cschanbusch/vellum-skins",
+      "preview": "https://github.com/cschanbusch/vellum-skins/releases/download/frontier-v1.3.0/frontier-preview.jpg"
+    },
+    {
+      "id": "redline",
+      "type": "skin",
+      "versions": [
+        {
+          "version": "1.4.0",
+          "apiVersion": 1,
+          "url": "https://github.com/cschanbusch/vellum-skins/releases/download/redline-v1.4.0/redline-1.4.0.zip",
+          "size": 448609,
+          "sha256": "1e3cf0ef316f6716fb87868522a4fd3b3c1153bcc7f5beefdeff103ca8d994f4",
+          "published": "2026-10-22T19:21:53.566Z"
+        }
+      ],
+      "name": "Grand Tour",
+      "description": "Pearl, chrome and glossy blue: a racing-showroom menu in the style of early-2000s grand-touring games, with a Garage view where every game gets a 3D case of its own, engine sounds and menu chimes.",
+      "author": "Vellum",
+      "license": "PolyForm-Strict-1.0.0",
+      "homepage": "https://github.com/cschanbusch/vellum-skins",
+      "preview": "https://github.com/cschanbusch/vellum-skins/releases/download/redline-v1.4.0/redline-preview.jpg"
+    }
+  ]
 }
