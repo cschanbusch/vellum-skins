@@ -26,6 +26,14 @@
       "type": "skin",
       "versions": [
         {
+          "version": "1.1.0",
+          "apiVersion": 1,
+          "url": "https://github.com/cschanbusch/vellum-skins/releases/download/ficsit-v1.1.0/ficsit-1.1.0.zip",
+          "size": 356255,
+          "sha256": "db5739a8b6a6820f6dc478d4bd281e7b5bde1b40b5e31a9ec85b48762889bdf8",
+          "published": "2026-10-23T15:29:34.829Z"
+        },
+        {
           "version": "1.0.0",
           "apiVersion": 1,
           "url": "https://github.com/cschanbusch/vellum-skins/releases/download/ficsit-v1.0.0/ficsit-1.0.0.zip",
@@ -39,7 +47,7 @@
       "author": "Vellum",
       "license": "PolyForm-Strict-1.0.0",
       "homepage": "https://github.com/cschanbusch/vellum-skins",
-      "preview": "https://github.com/cschanbusch/vellum-skins/releases/download/ficsit-v1.0.0/ficsit-preview.jpg"
+      "preview": "https://github.com/cschanbusch/vellum-skins/releases/download/ficsit-v1.1.0/ficsit-preview.jpg"
     },
     {
       "id": "frontier",
