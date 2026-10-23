@@ -82,6 +82,14 @@
       "type": "skin",
       "versions": [
         {
+          "version": "1.5.1",
+          "apiVersion": 1,
+          "url": "https://github.com/cschanbusch/vellum-skins/releases/download/redline-v1.5.1/redline-1.5.1.zip",
+          "size": 29742928,
+          "sha256": "93a5d375cc528af42f37a56a7f59bd8f2a008bf6559b59ed37b4c7cbc0af58b7",
+          "published": "2026-10-23T18:40:23.543Z"
+        },
+        {
           "version": "1.5.0",
           "apiVersion": 1,
           "url": "https://github.com/cschanbusch/vellum-skins/releases/download/redline-v1.5.0/redline-1.5.0.zip",
@@ -103,7 +111,7 @@
       "author": "Vellum",
       "license": "PolyForm-Strict-1.0.0",
       "homepage": "https://github.com/cschanbusch/vellum-skins",
-      "preview": "https://github.com/cschanbusch/vellum-skins/releases/download/redline-v1.5.0/redline-preview.jpg"
+      "preview": "https://github.com/cschanbusch/vellum-skins/releases/download/redline-v1.5.1/redline-preview.jpg"
     }
   ]
 }
