@@ -54,6 +54,14 @@
       "type": "skin",
       "versions": [
         {
+          "version": "1.4.0",
+          "apiVersion": 1,
+          "url": "https://github.com/cschanbusch/vellum-skins/releases/download/frontier-v1.4.0/frontier-1.4.0.zip",
+          "size": 631309,
+          "sha256": "448dfec7ce44ff8d355bbd72ae73b05b49b13052ce03c8614ff6f2872e6a1bcd",
+          "published": "2026-10-23T21:11:07.792Z"
+        },
+        {
           "version": "1.3.1",
           "apiVersion": 1,
           "url": "https://github.com/cschanbusch/vellum-skins/releases/download/frontier-v1.3.1/frontier-1.3.1.zip",
@@ -75,7 +83,7 @@
       "author": "Vellum",
       "license": "PolyForm-Strict-1.0.0",
       "homepage": "https://github.com/cschanbusch/vellum-skins",
-      "preview": "https://github.com/cschanbusch/vellum-skins/releases/download/frontier-v1.3.1/frontier-preview.jpg"
+      "preview": "https://github.com/cschanbusch/vellum-skins/releases/download/frontier-v1.4.0/frontier-preview.jpg"
     },
     {
       "id": "redline",
