@@ -152,6 +152,27 @@
       "license": "PolyForm-Strict-1.0.0",
       "homepage": "https://github.com/cschanbusch/vellum-skins",
       "preview": "https://github.com/cschanbusch/vellum-skins/releases/download/redline-v1.9.0/redline-preview.jpg"
+    },
+    {
+      "id": "grandtour",
+      "type": "skin",
+      "versions": [
+        {
+          "version": "2.0.0",
+          "apiVersion": 1,
+          "minApp": "0.6.0",
+          "url": "https://github.com/cschanbusch/vellum-skins/releases/download/grandtour-v2.0.0/grandtour-2.0.0.zip",
+          "size": 30065555,
+          "sha256": "b5aaf6c6ad4facab02948f4bd3eed176a66c2a374bb5b39d11e153daf1be9d3f",
+          "published": "2026-11-02T03:11:04.795Z"
+        }
+      ],
+      "name": "Grand Tour",
+      "description": "Pearl, chrome and glossy blue: a racing-showroom menu in the style of early-2000s grand-touring games, with a Garage view where every game gets a 3D case of its own, engine sounds and menu chimes.",
+      "author": "Vellum",
+      "license": "PolyForm-Strict-1.0.0",
+      "homepage": "https://github.com/cschanbusch/vellum-skins",
+      "preview": "https://github.com/cschanbusch/vellum-skins/releases/download/grandtour-v2.0.0/grandtour-preview.jpg"
     }
   ]
 }
